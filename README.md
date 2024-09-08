@@ -10,14 +10,16 @@ usage
    -bash name.sh
 
 
-pv
-   ![image](https://github.com/user-attachments/assets/641c5660-37c2-4741-abdf-f1a3fe56fba6)
+pv:
+
+![image](https://github.com/user-attachments/assets/641c5660-37c2-4741-abdf-f1a3fe56fba6)
 
    Oke thankyou semoga terbantu agar ngga susah susah buat backconnect hihiii!!!
 
 
 
 
+Coded by:
 
-   HaOMing_X12
-   TEAM:Clan_X12
+-HaOMing_X12
+-TEAM:Clan_X12
